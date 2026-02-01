@@ -669,6 +669,4 @@ For issues and questions:
 - Built with the MERN stack
 - Inspired by real-world security monitoring needs
 
----
 
-**Made with ❤️ for enhanced security monitoring**
